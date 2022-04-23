@@ -1,0 +1,17 @@
+Astra Linux
+
+Имя ПК: astra
+
+Имя пользователя: spaceship
+
+Пароль GRUB: Agent007
+
+Пароль: Agent007
+Нужно сделать практику = Сделаем на уроке
+
+Orel_Main
+
+Имя ПК: OrelMain
+
+имя уч. администратора: oreladmin1
+пароль: Agent007
